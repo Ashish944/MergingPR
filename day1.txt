@@ -5,4 +5,8 @@ This is text from next branch
 =======
 Hello Siri.
 >>>>>>> This text is added under master node
+<<<<<<< HEAD
 This line edited by Abhijit in Abhijit branch
+=======
+Line edited by Abhijit in master node
+>>>>>>> Line edited by Abhijit in master node
