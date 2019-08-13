@@ -1,12 +1,15 @@
-This is new for online pulling request and merging demo for git training
-<<<<<<< HEAD
+
+iThis is new for online pulling request and merging demo for git training
+
+
 Hello This is Ashish.
 This is text from next branch
-=======
+
 Hello Siri.
->>>>>>> This text is added under master node
-<<<<<<< HEAD
-This line edited by Abhijit in Abhijit branch
-=======
+
 Line edited by Abhijit in master node
->>>>>>> Line edited by Abhijit in master node
+
+test
+
+new next_branch line
+
